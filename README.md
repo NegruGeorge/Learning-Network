@@ -5,7 +5,7 @@ I developed an app for my university Exam.
 ----------------------------------------
 
 
-What i Learned
+What I Learned
 -----
 * Java, JavaFX.
 * OOP in Java
